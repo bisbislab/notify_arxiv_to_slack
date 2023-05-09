@@ -1,0 +1,4 @@
+arxiv==1.4.7
+python-dotenv==1.0.0
+requests==2.29.0
+slack_sdk==3.21.3
